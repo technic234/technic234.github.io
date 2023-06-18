@@ -2,7 +2,7 @@ Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate, AppSync Unified, 
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
